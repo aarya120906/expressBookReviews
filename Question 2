@@ -1,0 +1,16 @@
+Question 2 : Copy and paste the cURL command and its output, saved in the file named getallbooks, which displays all book(s) retrieved.
+
+{
+  "books": {
+    "1": {
+      "title": "Book One",
+      "author": "Author One",
+      "reviews": {}
+    },
+    "2": {
+      "title": "Book Two",
+      "author": "Author Two",
+      "reviews": {}
+    }
+  }
+}
