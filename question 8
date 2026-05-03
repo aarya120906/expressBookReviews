@@ -1,0 +1,6 @@
+Question 8 - Copy and paste the cURL command and its output, saved in the file named login, which shows the result of logging in as a registered user.
+
+{
+  "message": "Login successful",
+  "token": "sample.jwt.token"
+}
