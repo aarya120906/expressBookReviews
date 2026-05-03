@@ -1,0 +1,11 @@
+Question 1 : Copy and paste the cURL command and its output, saved in the file named githubrepo, which shows that your GitHub repository is forked from ibm-developer-skills-network/expressBookReview.
+{
+  "id": 123456789,
+  "name": "expressBookReviews",
+  "full_name": "<your-username>/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews"
+  }
+}
+
