@@ -1,0 +1,7 @@
+Question 6 - Copy and paste the cURL command and its output, saved in the file named getbookreview, which displays the initial book review.
+
+{
+  "reviews": {
+    "user1": "This is a great book!"
+  }
+}
