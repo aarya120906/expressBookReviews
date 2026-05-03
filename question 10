@@ -1,0 +1,5 @@
+Question 10 - Copy and paste the cURL command and its output, saved in the file named deletereview, which displays a delete message after deleting a book review.
+
+{
+  "message": "Review deleted successfully"
+}
