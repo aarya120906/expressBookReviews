@@ -1,0 +1,5 @@
+Question 7 - Copy and paste the cURL command and its output, saved in the file named register, which displays a message confirming the successful registration of a new user.
+
+{
+  "message": "User successfully registered"
+}
