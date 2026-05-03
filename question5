@@ -1,0 +1,11 @@
+Question 5 - Copy and paste the cURL command and its output, saved in the file named getbooksbytitle, which displays all books retrieved based on the specified title
+
+{
+  "books": {
+    "1": {
+      "title": "Book One",
+      "author": "Author One",
+      "reviews": {}
+    }
+  }
+}
