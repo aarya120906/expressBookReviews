@@ -1,0 +1,11 @@
+Question 3 - Copy and paste the cURL command and its output, saved in the file named getbooksbyISBN, which displays all book(s) retrieved based on the specified ISBN.
+
+{
+  "books": {
+    "1": {
+      "title": "Book One",
+      "author": "Author One",
+      "reviews": {}
+    }
+  }
+}
